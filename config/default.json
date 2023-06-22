@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb+srv://dk1729:imroopak@cluster0-5hbky.mongodb.net/test?retryWrites=true&w=majority"
+      ""
 }
